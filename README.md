@@ -1,2 +1,2 @@
 # HackerRankProblems
-To solve the Hacker Rank Problems
+Try to solve the Hacker Rank Problems
